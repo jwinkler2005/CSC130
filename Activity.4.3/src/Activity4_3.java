@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Activity4_3 {
-
+	/**T
 	/**
 	 * @param args
 	 */
@@ -22,6 +22,6 @@ public class Activity4_3 {
 		for (int i : userNums){
 			System.out.print(i + " ");
 		}
+		
 	}
-
 }
